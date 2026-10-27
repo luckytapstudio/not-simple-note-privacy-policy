@@ -2,7 +2,7 @@
 
 **Last updated: October 27, 2026**
 
-Lucky Tap Studio provides Not Simple Note: Sticky Notes, an Android application for creating, customizing, and managing notes and stickers.
+Lucky Tap Studio provides Not Simple Note: Sticky Notes, a free Android application for creating, customizing, and managing notes and stickers.
 
 This Privacy Policy explains how information is handled when using the application.
 
@@ -13,8 +13,6 @@ Not Simple Note: Sticky Notes does not require account registration or access to
 The application does not independently collect or transmit users' names, email addresses, phone numbers, location information, contacts, or advertising identifiers to Lucky Tap Studio.
 
 We do not use advertising networks, analytics services, or user-tracking technologies.
-
-Information required for optional in-app purchases is handled separately as described below.
 
 ## 2. Notes and Local Storage
 
@@ -40,29 +38,25 @@ If a user saves backup files to a folder managed by a third-party cloud storage 
 
 Users are responsible for managing and protecting their exported backup files.
 
-## 4. Free Version and In-App Purchases
+## 4. Free Features and Future Pro Version
 
-Not Simple Note: Sticky Notes is available as a free application with an optional Pro upgrade.
+Not Simple Note: Sticky Notes is currently provided free of charge.
 
-The Pro upgrade unlocks access to all available backgrounds and stickers.
+All available backgrounds, stickers, and customization features are currently accessible without payment.
 
-In-app purchases are processed through Google Play Billing.
+The application does not currently offer in-app purchases, paid subscriptions, or payment processing.
 
-Google Play may process payment information, transaction details, and account information according to Google's own Privacy Policy.
+The Unlock Pro button is informational only and does not initiate a purchase or collect payment information.
 
-The application may receive purchase status information, product identifiers, or purchase tokens from Google Play to verify purchases and enable Pro features.
+An optional paid Pro upgrade may be introduced in a future version of the application.
 
-Lucky Tap Studio does not directly collect users' credit card numbers or full payment details through the application.
-
-Google's Privacy Policy is available at:
-
-https://policies.google.com/privacy
+If in-app purchases are introduced, this Privacy Policy will be updated to explain how purchase-related information is processed.
 
 ## 5. Internet Access
 
 Creating, editing, and managing notes does not require an internet connection.
 
-Internet connectivity may be required to purchase, restore, or verify the Pro upgrade through Google Play.
+The application does not require an internet connection for its core note-taking and customization features.
 
 The application does not provide developer-operated cloud synchronization or remote storage for notes.
 
@@ -80,9 +74,11 @@ The application does not transmit the contents of selected images or backup file
 
 Lucky Tap Studio does not sell, rent, or disclose users' note content, images, or backup files to third parties.
 
-Google Play handles information necessary for in-app purchase processing under Google's own terms and privacy practices.
+The application does not use third-party advertising or analytics services.
 
 Device manufacturers, operating system services, and user-selected storage providers may independently process information according to their respective settings and privacy policies.
+
+The application does not currently use Google Play Billing to process in-app purchases.
 
 ## 8. Data Retention and Deletion
 
@@ -98,8 +94,6 @@ Depending on Android device settings, application data may be included in operat
 
 Lucky Tap Studio does not maintain a remote database of users' notes and therefore does not have remotely stored note content to delete.
 
-Google Play transaction records are managed according to Google's applicable policies.
-
 ## 9. Data Security
 
 The application uses Android's local storage and platform security mechanisms to store and access application data.
@@ -114,7 +108,7 @@ The application does not knowingly collect personal information from children or
 
 User-created note content is not transmitted to Lucky Tap Studio.
 
-Optional purchases are handled by Google Play and are subject to the applicable Google Play policies and account controls.
+The application does not currently offer in-app purchases or advertising.
 
 ## 11. Changes to This Privacy Policy
 
