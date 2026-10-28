@@ -46,7 +46,7 @@ All available backgrounds, stickers, and customization features are currently ac
 
 The application does not currently offer in-app purchases, paid subscriptions, or payment processing.
 
-The Unlock Pro button is informational only and does not initiate a purchase or collect payment information.
+The Unlock Pro button currently unlocks all available backgrounds and stickers for free. No payment or purchase is required.
 
 An optional paid Pro upgrade may be introduced in a future version of the application.
 
